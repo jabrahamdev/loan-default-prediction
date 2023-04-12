@@ -32,5 +32,5 @@ LendingClub es una empresa estadounidense de préstamos entre particulares con s
 
 Dados los datos históricos sobre los préstamos otorgados con información sobre si el prestatario incumplió o no (cancelación), ¿podemos construir un modelo que pueda predecir si un prestatario pagará o no su préstamo? De esta manera, en el futuro, cuando obtengamos un nuevo cliente potencial, podemos evaluar si es probable que pague el préstamo o no. 
 
-La columna "loan_status" contiene la etiqueta.
+La columna "loan_status" contiene la clase.
 
